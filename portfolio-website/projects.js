@@ -2,15 +2,15 @@
 
 const projects = [
   {
-    title: "Project One",
-    description: "A beautiful website built with HTML, CSS, and JavaScript",
-    tags: ["HTML", "CSS", "JavaScript"],
-    link: "#",
+    title: "Web-Based Reservation, Ordering, and Inventory Management System",
+    description: "Web-based Resturant Management System for Boss Pares Kitchenette",
+    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"],
+    link: "Not Available",
   },
   {
-    title: "Project Two",
+    title: "Flip-Flop Christmas Lights LCD",
     description: "An interactive web app with Tailwind CSS styling",
-    tags: ["JavaScript", "Tailwind", "Web App"],
+    tags: ["Logic Circuit and Design", "Electronics", "Circuit Design"],
     link: "#",
   },
   {
